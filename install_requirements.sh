@@ -11,7 +11,7 @@ export LANG=C.UTF-8
 # Apt dependencies
 sudo apt update
 sudo apt -y install \
-   can-utils \
+   can-utils \w
    ffmpeg \
    git \
    iproute2 \
